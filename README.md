@@ -24,3 +24,12 @@ Other teams that may be fun to watch:
 | Spain | Beautiful country with many places to see. | 5 days | 
 | Italy | Beautiful buildings with historic artworks. | 5 days | 
 | Egypt | The pyramdids alone making it worth visiting. | 2 days |
+
+***
+> Clothes make the man. Naked people have little or no influence in society. 
+- *Mark Twain*
+
+> Before you marry a person, you should first make them use a computer with slow Internet to see who they really are. 
+- *Will Ferrell* 
+
+
