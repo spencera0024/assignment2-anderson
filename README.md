@@ -15,3 +15,12 @@ Other teams that may be fun to watch:
 * New Orleans Saints
 
 [Link to my About Me page.](https://github.com/spencera0024/assignment2-anderson/blob/main/AboutMe.md)
+
+# Countries you should visit 
+###
+| Name | Why visit? | Number of days recommended | 
+| --- | --- | ---: |
+| United Kingdom | It has a very large amount of sights to see. | 7 days | 
+| Spain | Beautiful country with many places to see. | 5 days | 
+| Italy | Beautiful buildings with historic artworks. | 5 days | 
+| Egypt | The pyramdids alone making it worth visiting. | 2 days |
