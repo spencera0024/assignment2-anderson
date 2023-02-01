@@ -8,11 +8,8 @@ I enjoy football because the game is almost always close. There **never** seems 
 1. Patrick Mahomes 
 2. Travis Kelce 
 3. Chris Jones 
-<<<<<<< HEAD
 
 Other teams that may be fun to watch: 
 * New York Giants 
 * New York Jets 
 * New Orleans Saints
-=======
->>>>>>> 9d58b925409cef3a0f576cf58a65e042e6fffc81
