@@ -26,6 +26,8 @@ Other teams that may be fun to watch:
 | Egypt | The pyramdids alone making it worth visiting. | 2 days |
 
 ***
+# Funny Quotes
+###
 > Clothes make the man. Naked people have little or no influence in society. - *Mark Twain*
 
 > Before you marry a person, you should first make them use a computer with slow Internet to see who they really are. - *Will Ferrell*
