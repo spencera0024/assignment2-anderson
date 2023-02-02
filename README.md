@@ -42,4 +42,29 @@ Then seasons named season-one, season-two etc. can be children of sample-series,
 Similarly, episodes can be children of those seasons, like: site.com/series/sample-series/season-one/episode-one, site.com/series/sample-series/season-one/episode-two etc.
 Same thing can be done by default by WordPress page, since pages are by default hierarchical.
 
+```
+<h3>All Post Meta</h3>
+
+<?php 
+
+  // Get all the data 
+  $getPostCustom = get_post_custom(); 
+
+    foreach($getPostCustom as $name=>$value) {
+
+        echo "<strong>" . $name . "</strong>"."  =>  ";
+
+        foreach ($value as $nameAr=>$valueAr) {
+                echo "<br />";
+                echo $nameAr."  =>  ";
+                echo var_dump($valueAr);
+        }
+
+        echo "<br /><br />";
+
+    }
+?>
+
+```
+
 
