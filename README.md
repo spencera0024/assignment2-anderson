@@ -64,7 +64,6 @@ Same thing can be done by default by WordPress page, since pages are by default 
 
     }
 ?>
-
 ```
 
 
