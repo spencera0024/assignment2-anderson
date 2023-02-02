@@ -41,6 +41,7 @@ Then a single series named sample-series as a top level post of series post type
 Then seasons named season-one, season-two etc. can be children of sample-series, like: site.com/series/sample-series/season-one, site.com/series/sample-series/season-two.
 Similarly, episodes can be children of those seasons, like: site.com/series/sample-series/season-one/episode-one, site.com/series/sample-series/season-one/episode-two etc.
 Same thing can be done by default by WordPress page, since pages are by default hierarchical.
+[Link to StackOverflow answer](https://wordpress.stackexchange.com/questions/413428/what-is-the-best-way-to-relate-different-custom-post-types)
 
 ```
 <h3>All Post Meta</h3>
@@ -65,5 +66,5 @@ Same thing can be done by default by WordPress page, since pages are by default 
     }
 ?>
 ```
-
-
+[Code Snippet Source](
+https://css-tricks.com/snippets/wordpress/dump-all-custom-fields/)
