@@ -33,18 +33,13 @@ Other teams that may be fun to watch:
 > Before you marry a person, you should first make them use a computer with slow Internet to see who they really are. - *Will Ferrell*
 
 ***
-# Code Snippetse 
+# Code Snippets
 ###
 > I think a better approach for this would be to create a single nested (hierarchical) custom post type.
-
 For example, it can be series.
-
 Then a single series named sample-series as a top level post of series post type: site.com/series/sample-series/.
-
 Then seasons named season-one, season-two etc. can be children of sample-series, like: site.com/series/sample-series/season-one, site.com/series/sample-series/season-two.
-
 Similarly, episodes can be children of those seasons, like: site.com/series/sample-series/season-one/episode-one, site.com/series/sample-series/season-one/episode-two etc.
-
 Same thing can be done by default by WordPress page, since pages are by default hierarchical.
 
 
